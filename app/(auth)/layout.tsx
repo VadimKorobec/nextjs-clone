@@ -28,6 +28,7 @@ const Layout = ({ children }: LayoutProps) => {
             alt="files"
             width={342}
             height={342}
+            priority={true}
           />
         </div>
       </section>
